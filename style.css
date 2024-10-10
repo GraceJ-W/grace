@@ -1,1 +1,19 @@
-p{;background-color:yellow}
+p{background-color:yellow;
+/*unvisited link */ a:link{color: pink};
+    /*visited link */ a:visited {color: midnightblue};
+    /*mouse over link*/ a:hover {color:thistle};
+    /*selected linl*/ a:active {color:tomato};
+}
+ul{background-color: burlywood;opacity: 0.5;}
+div {
+    width: 130px;
+    height: 30px;
+    background-color: rgba(255, 80, 194, 0.8);
+    overflow: visible;
+  }
+  div {
+    padding-top: 15px;
+    padding-right: 20px;
+    padding-bottom: 15px;
+    padding-left: 20px;
+  }
