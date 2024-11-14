@@ -17,4 +17,5 @@ div {
     padding-bottom: 15px;
     padding-left: 20px;
   }
-  p.dotted {border-style: solid; border-width: 7px;}
+  p.dotted {border-style: dotted; border-width: 7px;}
+ body{font-family: "Times New Roman", Times, serif;/* font comment*/}

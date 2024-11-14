@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> style="font-size: 32px; font-weight: bold;">Grace Jordan-Weinstein</title>
+  <!-- Import Roboto Serif from Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Serif&display=swap" rel="stylesheet">
+  <style>
+    /* Basic reset */
+    .center-text {
+      margin: 15px;
+      padding: 0;
+      height: 100%;
+      font-family: 'Roboto Serif', serif; /* Apply Roboto Serif font */
+      font-size: 2em; /* Adjust text size as needed */
+    }
+    body{font-family: 'Roboto Serif', serif; /* Apply Roboto Serif font */}
+
+  </style>
+</head>
+<body>
+  <div class="center-text">
+    Grace Jordan-Weinstein
+  </div>
+  <p>I’m a second year at Northwestern University studying Journalism in the Medill School. I’m from Philadelphia but have loved exploring Chicago in my free time. I am the styling director for STITCH, Northwestern’s fashion magazine, as well as writing film reviews for The Daily Northwestern and Dj-ing for WNUR’s rock and jazz shows. I’m also a part of the Northwestern Crew Team. Below is a map of all the places I’ve rowed with NU Crew.</p>
+  <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15U1V3ISQ1QdWSYu6Xh2wVpVoazeOrFw&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+  <div style="text-align: center; margin: 20px 0;">
+    <hr style="border: 0; border-top: 5px solid black; width: 80%; margin: 0 auto;">
+    <h1 style="font-size: 28px; font-weight: bold;">Music</h1>
+  <p1>For as long as I can remember, music has been a driving and structuring passion in my life, both in the classroom and in my extracurricular life. At Northwestern University, I hostboth the Rock and Jazz shows at WNUR, the university’s radio station, incorporating music into my week as a time to appreciate great artistry amidst a rigorous academic calendar. As a DJ, I am involved in all aspects of making the radio programs happen, from on-air broadcasting to creating programming, and operating soundboards. Finally, from a personal standpoint, I am an avid vinyl collector and try to attend concerts in Chicago whenever I can. </p1>
+  <div class="line-container">
+    <hr class="line">
+  </div>
+  <h2>My top 100 songs!</h2>
+  <p2>Though I’ve eschewed the type of ranking publications like Pitchfork or Rolling Stone typically does, I’ve gathered what are, in my opinion, the 100 best songs.
+
+    I’ve decided to keep the options to “pop music” — which I am classifying as most music that's not jazz, classical or showtunes.
+    </p2>
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3MYqC1bzf56EgDOHXNNF20?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <div class="line-container">
+        <hr class="line">
+ </div>
+ <h3 style="font-size: 24px;">Radio</h3>
+ <p3>As a DJ I do on-air live broadcasting, host shows, operate radio studio soundboards, create programming, and train new DJs. </p3>
+ <a href="https://wnur-test.soc.northwestern.edu/radio-playlist/">WNUR Radio Livestream</a>
+ <hr style="border: 0; border-top: 5px solid black; width: 80%; margin: 0 auto;">
+<h4 style="font-size: 28px; font-weight: bold;">Fashion</h4>
+<p4>Serving as the Styling Director for STITCH I’ve coordinated photoshoots, formulated aesthetics and ideas, managed other stylists and booked models. Below attached are the two issues I’ve served as Styling Director (Winter and Fall 2024), as well as the one I just styled for. </p4>
+<div class="line-container">
+    <hr class="line">
+</div>
+<h5 style="font-size: 24px;">STITCH</h5>
+<figure></figure>
+    <img src="Fall 2023 Cover.jpg.heic" alt="woman by lake wearing sunglasses" width="600">
+</figure>
+<a href="https://issuu.com/stitchfashion/docs/campfq23_final" target="_blank">Fall 2023</a>
+PUT IMAGE COVER IN
+<a href="https://issuu.com/stitchfashion/docs/stitch.winter24final" target="_blank">Winter 2024</a>
+PUT COVER IN
+<a href="https://issuu.com/stitchfashion/docs/stitch_fall_24" target="_blank">Fall 2024</a>
+<hr style="border: 0; border-top: 5px solid black; width: 80%; margin: 0 auto;">
+<h6 style="font-size: 28px; font-weight: bold;">Film</h6>
+<p5> I’ve always desired to watch and learn more and do deep dives into director's work, as well as understanding different methods for storytelling and plot development with television. In my first year at Northwestern, I secured a press pass to the Chicago International Film Festival and interviewed Oscar-winner, Emerald Fennell, about her film Saltburn. I have since penned more reviews and had the privilege to interview director Tim Mielants earlier this fall during the festival.</p5>
+<div class="line-container"></div>
+    <hr class="line">
+</div>
+<h7 style="font-size: 24px;">Film Articles</h7>
+
+</body>
+</html>
